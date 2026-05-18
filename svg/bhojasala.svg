@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="2350" viewBox="0 0 1100 2350">
+  <defs>
+    <style>
+      line, path { stroke:#000; stroke-width:2.2; stroke-linecap:round; fill:none; }
+    </style>
+  </defs>
+  <rect width="100%" height="100%" fill="#fff"/>
+  <line x1="210.59" y1="2222.25" x2="889.41" y2="1543.43"/>
+  <line x1="154.02" y1="2165.69" x2="832.84" y2="1486.86"/>
+  <line x1="380.29" y1="1826.27" x2="776.27" y2="1430.29"/>
+  <line x1="323.73" y1="1769.71" x2="719.71" y2="1373.73"/>
+  <line x1="267.16" y1="1713.14" x2="832.84" y2="1147.45"/>
+  <line x1="210.59" y1="1656.57" x2="776.27" y2="1090.88"/>
+  <line x1="889.41" y1="2222.25" x2="210.59" y2="1543.43"/>
+  <line x1="945.98" y1="2165.69" x2="267.16" y2="1486.86"/>
+  <line x1="719.71" y1="1826.27" x2="323.73" y2="1430.29"/>
+  <line x1="776.27" y1="1769.71" x2="380.29" y2="1373.73"/>
+  <line x1="832.84" y1="1713.14" x2="493.43" y2="1373.73"/>
+  <line x1="889.41" y1="1656.57" x2="550.00" y2="1317.16"/>
+  <line x1="140.29" y1="2052.55" x2="959.71" y2="2052.55"/>
+  <line x1="154.02" y1="2109.12" x2="945.98" y2="2109.12"/>
+  <path d="M 267.16 1486.86 A 40.00 40.00 0 0 1 323.73 1430.29" fill="none"/>
+  <path d="M 210.59 1543.43 A 120.00 120.00 0 0 1 380.29 1373.73" fill="none"/>
+  <path d="M 776.27 1769.71 A 40.00 40.00 0 0 0 832.84 1713.14" fill="none"/>
+  <path d="M 719.71 1826.27 A 120.00 120.00 0 0 0 889.41 1656.57" fill="none"/>
+  <path d="M 832.84 1486.86 A 40.00 40.00 0 0 0 776.27 1430.29" fill="none"/>
+  <path d="M 889.41 1543.43 A 120.00 120.00 0 0 0 719.71 1373.73" fill="none"/>
+  <path d="M 323.73 1769.71 A 40.00 40.00 0 0 1 267.16 1713.14" fill="none"/>
+  <path d="M 380.29 1826.27 A 120.00 120.00 0 0 1 210.59 1656.57" fill="none"/>
+  <path d="M 154.02 2165.69 A 30.61 30.61 0 0 1 154.02 2109.12" fill="none"/>
+  <path d="M 945.98 2165.69 A 30.61 30.61 0 0 0 945.98 2109.12" fill="none"/>
+  <path d="M 210.59 2222.25 A 99.41 99.41 0 1 1 140.29 2052.55" fill="none"/>
+  <path d="M 889.41 2222.25 A 99.41 99.41 0 1 0 959.71 2052.55" fill="none"/>
+  <path d="M 550.00 1317.16 A 56.57 56.57 0 0 1 533.43 1277.16" fill="none"/>
+  <path d="M 493.43 1373.73 A 136.57 136.57 0 0 1 453.43 1277.16" fill="none"/>
+  <line x1="533.43" y1="1277.16" x2="533.43" y2="877.16"/>
+  <line x1="453.43" y1="1277.16" x2="453.43" y2="877.16"/>
+  <path d="M 333.43 877.16 L 653.43 877.16 L 493.43 717.16 Z" fill="none"/>
+  <path d="M 333.43 557.16 L 653.43 557.16 L 493.43 717.16 Z" fill="none"/>
+  <line x1="493.43" y1="130.49" x2="493.43" y2="877.16"/>
+  <path d="M 333.43 557.16 L 653.43 557.16 L 573.43 130.49 L 413.43 130.49 Z" fill="none"/>
+  <line x1="353.43" y1="450.49" x2="633.43" y2="450.49"/>
+  <line x1="373.43" y1="343.82" x2="613.43" y2="343.82"/>
+  <line x1="393.43" y1="237.16" x2="593.43" y2="237.16"/>
+  <text class="txt" x="493.43" y="90.49" font-size="44" text-anchor="middle">श्रीः</text>
+  <text class="txt" x="448.43" y="183.82" font-size="34" text-anchor="middle">अ</text>
+  <text class="txt" x="538.43" y="183.82" font-size="34" text-anchor="middle">आ</text>
+  <text class="txt" x="438.43" y="290.49" font-size="34" text-anchor="middle">इ</text>
+  <text class="txt" x="548.43" y="290.49" font-size="34" text-anchor="middle">ई</text>
+  <text class="txt" x="428.43" y="397.16" font-size="34" text-anchor="middle">उ</text>
+  <text class="txt" x="558.43" y="397.16" font-size="34" text-anchor="middle">ऊ</text>
+  <text class="txt" x="418.43" y="503.82" font-size="34" text-anchor="middle">ऋ</text>
+  <text class="txt" x="568.43" y="503.82" font-size="34" text-anchor="middle">ॠ</text>
+  <text class="txt" x="453.43" y="610.49" font-size="34" text-anchor="middle">ए</text>
+  <text class="txt" x="533.43" y="610.49" font-size="34" text-anchor="middle">ऐ</text>
+  <text class="txt" x="453.43" y="823.82" font-size="34" text-anchor="middle">ओ</text>
+  <text class="txt" x="533.43" y="823.82" font-size="34" text-anchor="middle">औ</text>
+  <line x1="453.43" y1="1197.16" x2="533.43" y2="1197.16"/>
+  <line x1="453.43" y1="1117.16" x2="533.43" y2="1117.16"/>
+  <line x1="453.43" y1="1037.16" x2="533.43" y2="1037.16"/>
+  <line x1="453.43" y1="957.16" x2="533.43" y2="957.16"/>
+  <text class="txt" x="493.43" y="917.16" font-size="34" text-anchor="middle">ह</text>
+  <text class="txt" x="493.43" y="997.16" font-size="34" text-anchor="middle">य</text>
+  <text class="txt" x="493.43" y="1077.16" font-size="34" text-anchor="middle">व</text>
+  <text class="txt" x="493.43" y="1157.16" font-size="34" text-anchor="middle">र</text>
+  <text class="txt" x="493.43" y="1237.16" font-size="34" text-anchor="middle">ल</text>
+  <path d="M 776.27 1090.88 A 56.57 56.57 0 0 0 792.84 1050.88" fill="none"/>
+  <line x1="792.84" y1="1050.88" x2="792.84" y2="250.49"/>
+  <line x1="872.84" y1="1050.88" x2="872.84" y2="250.49"/>
+  <line x1="952.84" y1="1050.88" x2="952.84" y2="250.49"/>
+  <line x1="1032.84" y1="1050.88" x2="1032.84" y2="250.49"/>
+  <path d="M 832.84 1147.45 A 136.57 136.57 0 0 0 872.84 1050.88" fill="none"/>
+  <path d="M 792.84 250.49 A 120.00 120.00 0 0 1 1032.84 250.49" fill="none"/>
+  <path d="M 872.84 250.49 A 40.00 40.00 0 0 1 952.84 250.49" fill="none"/>
+  <text x="323.73" y="1600.00" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 323.73 1600.00)">क</text>
+  <text x="380.29" y="1543.43" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 380.29 1543.43)">ख</text>
+  <text x="436.86" y="1486.86" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 436.86 1486.86)">ग</text>
+  <text x="493.43" y="1430.29" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 493.43 1430.29)">घ</text>
+  <text x="550.00" y="1373.73" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 550.00 1373.73)">ङ</text>
+  <text x="380.29" y="1656.57" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 380.29 1656.57)">च</text>
+  <text x="436.86" y="1600.00" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 436.86 1600.00)">छ</text>
+  <text x="493.43" y="1543.43" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 493.43 1543.43)">ज</text>
+  <text x="550.00" y="1486.86" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 550.00 1486.86)">झ</text>
+  <text x="606.57" y="1430.29" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 606.57 1430.29)">ञ</text>
+  <text x="436.86" y="1713.14" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 436.86 1713.14)">ट</text>
+  <text x="493.43" y="1656.57" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 493.43 1656.57)">ठ</text>
+  <text x="550.00" y="1600.00" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 550.00 1600.00)">ड</text>
+  <text x="606.57" y="1543.43" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 606.57 1543.43)">ढ</text>
+  <text x="663.14" y="1486.86" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 663.14 1486.86)">ण</text>
+  <text x="493.43" y="1769.71" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 493.43 1769.71)">त</text>
+  <text x="550.00" y="1713.14" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 550.00 1713.14)">थ</text>
+  <text x="606.57" y="1656.57" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 606.57 1656.57)">द</text>
+  <text x="663.14" y="1600.00" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 663.14 1600.00)">ध</text>
+  <text x="719.71" y="1543.43" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 719.71 1543.43)">न</text>
+  <text x="550.00" y="1826.27" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 550.00 1826.27)">प</text>
+  <text x="606.57" y="1769.71" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 606.57 1769.71)">फ</text>
+  <text x="663.14" y="1713.14" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 663.14 1713.14)">ब</text>
+  <text x="719.71" y="1656.57" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 719.71 1656.57)">भ</text>
+  <text x="776.27" y="1600.00" font-size="36" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 776.27 1600.00)">म</text>
+  <line x1="430.00" y1="2052.55" x2="430.00" y2="2109.12"/>
+  <line x1="510.00" y1="2052.55" x2="510.00" y2="2109.12"/>
+  <line x1="590.00" y1="2052.55" x2="590.00" y2="2109.12"/>
+  <line x1="670.00" y1="2052.55" x2="670.00" y2="2109.12"/>
+  <text x="390.00" y="2080.83" font-size="34" text-anchor="middle" dominant-baseline="central">ँ</text>
+  <text x="470.00" y="2080.83" font-size="34" text-anchor="middle" dominant-baseline="central">ᳵ</text>
+  <text x="550.00" y="2080.83" font-size="34" text-anchor="middle" dominant-baseline="central">ᳶ</text>
+  <text x="630.00" y="2080.83" font-size="34" text-anchor="middle" dominant-baseline="central">ं</text>
+  <text x="710.00" y="2080.83" font-size="34" text-anchor="middle" dominant-baseline="central">ः</text>
+  <line x1="606.57" y1="1939.41" x2="663.14" y2="1882.84"/>
+  <line x1="663.14" y1="1995.98" x2="719.71" y2="1939.41"/>
+  <text x="606.57" y="1882.84" font-size="34" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 606.57 1882.84)">श</text>
+  <text x="663.14" y="1939.41" font-size="34" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 663.14 1939.41)">ष</text>
+  <text x="719.71" y="1995.98" font-size="34" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 719.71 1995.98)">स</text>
+  <text x="804.56" y="2080.83" font-size="34" text-anchor="middle" dominant-baseline="central">ह</text>
+  <text x="295.44" y="2080.83" font-size="34" text-anchor="middle" dominant-baseline="central">ऌ</text>
+  <line x1="493.43" y1="1939.41" x2="436.86" y2="1882.84"/>
+  <line x1="436.86" y1="1995.98" x2="380.29" y2="1939.41"/>
+  <text x="380.29" y="1995.98" font-size="34" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 380.29 1995.98)">क्ष</text>
+  <text x="436.86" y="1939.41" font-size="34" text-anchor="middle" dominant-baseline="central" transform="rotate(-45 436.86 1939.41)">ज्ञ</text>
+  <line x1="952.84" y1="1050.88" x2="952.84" y2="1275.84"/>
+  <line x1="1032.84" y1="1050.88" x2="1032.84" y2="1275.84"/>
+  <path d="M 952.84 1275.84 L 981.45 1435.34 A 11.39 11.39 0 0 0 1004.24 1435.34 L 1032.84 1275.84" fill="none"/>
+  <line x1="646.85" y1="1333.45" x2="590.28" y2="1276.88"/>
+  <line x1="687.13" y1="1293.17" x2="630.56" y2="1236.60"/>
+  <line x1="727.41" y1="1252.89" x2="670.84" y2="1196.32"/>
+  <line x1="767.69" y1="1212.61" x2="711.12" y2="1156.04"/>
+  <line x1="807.97" y1="1172.33" x2="751.40" y2="1115.76"/>
+  <line x1="851.99" y1="1123.41" x2="784.21" y2="1080.92"/>
+  <line x1="872.84" y1="1047.98" x2="792.84" y2="1047.98"/>
+  <line x1="872.84" y1="991.02" x2="792.84" y2="991.02"/>
+  <line x1="872.84" y1="934.05" x2="792.84" y2="934.05"/>
+  <line x1="872.84" y1="877.09" x2="792.84" y2="877.09"/>
+  <line x1="872.84" y1="820.13" x2="792.84" y2="820.13"/>
+  <line x1="872.84" y1="763.16" x2="792.84" y2="763.16"/>
+  <line x1="872.84" y1="706.20" x2="792.84" y2="706.20"/>
+  <line x1="872.84" y1="649.24" x2="792.84" y2="649.24"/>
+  <line x1="872.84" y1="592.27" x2="792.84" y2="592.27"/>
+  <line x1="872.84" y1="535.31" x2="792.84" y2="535.31"/>
+  <line x1="872.84" y1="478.35" x2="792.84" y2="478.35"/>
+  <line x1="872.84" y1="421.38" x2="792.84" y2="421.38"/>
+  <line x1="872.84" y1="364.42" x2="792.84" y2="364.42"/>
+  <line x1="872.84" y1="307.45" x2="792.84" y2="307.45"/>
+  <line x1="952.84" y1="307.45" x2="1032.84" y2="307.45"/>
+  <line x1="952.84" y1="364.42" x2="1032.84" y2="364.42"/>
+  <line x1="952.84" y1="421.38" x2="1032.84" y2="421.38"/>
+  <line x1="952.84" y1="478.35" x2="1032.84" y2="478.35"/>
+  <line x1="952.84" y1="535.31" x2="1032.84" y2="535.31"/>
+  <line x1="952.84" y1="592.27" x2="1032.84" y2="592.27"/>
+  <line x1="952.84" y1="649.24" x2="1032.84" y2="649.24"/>
+  <line x1="952.84" y1="706.20" x2="1032.84" y2="706.20"/>
+  <line x1="952.84" y1="763.16" x2="1032.84" y2="763.16"/>
+  <line x1="952.84" y1="820.13" x2="1032.84" y2="820.13"/>
+  <line x1="952.84" y1="877.09" x2="1032.84" y2="877.09"/>
+  <line x1="952.84" y1="934.05" x2="1032.84" y2="934.05"/>
+  <line x1="952.84" y1="991.02" x2="1032.84" y2="991.02"/>
+  <line x1="952.84" y1="1047.98" x2="1032.84" y2="1047.98"/>
+  <line x1="952.84" y1="1104.95" x2="1032.84" y2="1104.95"/>
+  <line x1="952.84" y1="1161.91" x2="1032.84" y2="1161.91"/>
+  <line x1="952.84" y1="1218.87" x2="1032.84" y2="1218.87"/>
+  <line x1="952.84" y1="1275.84" x2="1032.84" y2="1275.84"/>
+  <line x1="902.49" y1="211.85" x2="881.78" y2="134.58"/>
+  <line x1="923.20" y1="211.85" x2="943.90" y2="134.58"/>
+  <text x="598.42" y="1325.30" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(-45.00 598.42 1325.30)">सु</text>
+  <text x="638.70" y="1285.02" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(-45.00 638.70 1285.02)">औ</text>
+  <text x="678.98" y="1244.74" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(-45.00 678.98 1244.74)">जस्</text>
+  <text x="719.26" y="1204.46" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(-45.00 719.26 1204.46)">अम्</text>
+  <text x="759.54" y="1164.18" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(-45.00 759.54 1164.18)">औट्</text>
+  <text x="799.82" y="1123.90" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(-45.00 799.82 1123.90)">शस्</text>
+  <text x="829.47" y="1076.17" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(-74.82 829.47 1076.17)">टा</text>
+  <text x="832.84" y="1019.50" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(0.00 832.84 1019.50)">भ्याम्</text>
+  <text x="832.84" y="962.54" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(0.00 832.84 962.54)">भिस्</text>
+  <text x="832.84" y="905.57" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(0.00 832.84 905.57)">ङे</text>
+  <text x="832.84" y="848.61" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(0.00 832.84 848.61)">भ्याम्</text>
+  <text x="832.84" y="791.65" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(0.00 832.84 791.65)">भ्यस्</text>
+  <text x="832.84" y="734.68" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(0.00 832.84 734.68)">ङसि</text>
+  <text x="832.84" y="677.72" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(0.00 832.84 677.72)">भ्याम्</text>
+  <text x="832.84" y="620.75" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(0.00 832.84 620.75)">भ्यस्</text>
+  <text x="832.84" y="563.79" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(0.00 832.84 563.79)">ङस्</text>
+  <text x="832.84" y="506.83" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(0.00 832.84 506.83)">ओस्</text>
+  <text x="832.84" y="449.86" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(0.00 832.84 449.86)">आम्</text>
+  <text x="832.84" y="392.90" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(0.00 832.84 392.90)">ङि</text>
+  <text x="832.84" y="335.94" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(0.00 832.84 335.94)">ओस्</text>
+  <text x="832.84" y="278.97" font-size="20" text-anchor="middle" dominant-baseline="central" transform="rotate(0.00 832.84 278.97)">सुप्</text>
+  <text x="992.84" y="278.97" font-size="20" text-anchor="middle" dominant-baseline="central">तिप्</text>
+  <text x="992.84" y="335.94" font-size="20" text-anchor="middle" dominant-baseline="central">तस्</text>
+  <text x="992.84" y="392.90" font-size="20" text-anchor="middle" dominant-baseline="central">झि</text>
+  <text x="992.84" y="449.86" font-size="20" text-anchor="middle" dominant-baseline="central">सिप्</text>
+  <text x="992.84" y="506.83" font-size="20" text-anchor="middle" dominant-baseline="central">थस्</text>
+  <text x="992.84" y="563.79" font-size="20" text-anchor="middle" dominant-baseline="central">थ</text>
+  <text x="992.84" y="620.75" font-size="20" text-anchor="middle" dominant-baseline="central">मिप्</text>
+  <text x="992.84" y="677.72" font-size="20" text-anchor="middle" dominant-baseline="central">वस्</text>
+  <text x="992.84" y="734.68" font-size="20" text-anchor="middle" dominant-baseline="central">मस्</text>
+  <text x="992.84" y="791.65" font-size="20" text-anchor="middle" dominant-baseline="central">त</text>
+  <text x="992.84" y="848.61" font-size="20" text-anchor="middle" dominant-baseline="central">आताम्</text>
+  <text x="992.84" y="905.57" font-size="20" text-anchor="middle" dominant-baseline="central">झ</text>
+  <text x="992.84" y="962.54" font-size="20" text-anchor="middle" dominant-baseline="central">थास्</text>
+  <text x="992.84" y="1019.50" font-size="20" text-anchor="middle" dominant-baseline="central">आथाम्</text>
+  <text x="992.84" y="1076.46" font-size="20" text-anchor="middle" dominant-baseline="central">ध्वम्</text>
+  <text x="992.84" y="1133.43" font-size="20" text-anchor="middle" dominant-baseline="central">इट्</text>
+  <text x="992.84" y="1190.39" font-size="20" text-anchor="middle" dominant-baseline="central">वहि</text>
+  <text x="992.84" y="1247.35" font-size="20" text-anchor="middle" dominant-baseline="central">महिङ्</text>
+</svg>
