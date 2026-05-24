@@ -81,7 +81,10 @@ def build_svg() -> str:
     lines = []
     a = lines.append
 
-    a('<svg xmlns="http://www.w3.org/2000/svg" viewBox="-525 -725 1850 2350" width="900" height="1143">')
+    # Square viewBox so square renderers (e.g., qlmanage) don't clip the taller side.
+    # Content x: -525..1325 (span 1850), y: -725..~1335 (span ~2060). Square side 2160
+    # centred on content centre (400, 305) gives x_min=-680, y_min=-775.
+    a('<svg xmlns="http://www.w3.org/2000/svg" viewBox="-680 -775 2160 2160" width="1000" height="1000">')
     a('  <style>')
     a('    .grid { stroke: #222; stroke-width: 1.2; fill: none; }')
     a('    .loop { stroke: #222; stroke-width: 1.2; fill: none; }')
