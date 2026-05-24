@@ -1,0 +1,452 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-525 -725 1850 2350" width="900" height="1143">
+  <style>
+    .grid { stroke: #222; stroke-width: 1.2; fill: none; }
+    .loop { stroke: #222; stroke-width: 1.2; fill: none; }
+  </style>
+
+  <g transform="rotate(-45 360 360)">
+
+    <g class="grid">
+      <line x1="0" y1="-40" x2="0" y2="1242"/>
+      <line x1="72" y1="-40" x2="72" y2="760"/>
+      <line x1="144" y1="-40" x2="144" y2="760"/>
+      <line x1="216" y1="-40" x2="216" y2="760"/>
+      <line x1="288" y1="-40" x2="288" y2="760"/>
+      <line x1="360" y1="-40" x2="360" y2="760"/>
+      <line x1="432" y1="-40" x2="432" y2="760"/>
+      <line x1="504" y1="-40" x2="504" y2="760"/>
+      <line x1="576" y1="-40" x2="576" y2="760"/>
+      <line x1="648" y1="-40" x2="648" y2="760"/>
+      <line x1="720" y1="-252" x2="720" y2="760"/>
+    </g>
+
+    <g class="grid">
+      <line x1="-72" y1="0" x2="972" y2="0"/>
+      <line x1="-72" y1="40" x2="792" y2="40"/>
+      <line x1="-72" y1="80" x2="792" y2="80"/>
+      <line x1="-72" y1="120" x2="792" y2="120"/>
+      <line x1="-72" y1="160" x2="792" y2="160"/>
+      <line x1="-72" y1="200" x2="792" y2="200"/>
+      <line x1="-72" y1="240" x2="792" y2="240"/>
+      <line x1="-72" y1="280" x2="792" y2="280"/>
+      <line x1="-72" y1="320" x2="792" y2="320"/>
+      <line x1="-72" y1="360" x2="792" y2="360"/>
+      <line x1="-72" y1="400" x2="792" y2="400"/>
+      <line x1="-72" y1="440" x2="792" y2="440"/>
+      <line x1="-72" y1="480" x2="792" y2="480"/>
+      <line x1="-72" y1="520" x2="792" y2="520"/>
+      <line x1="-72" y1="560" x2="792" y2="560"/>
+      <line x1="-72" y1="600" x2="792" y2="600"/>
+      <line x1="-72" y1="640" x2="792" y2="640"/>
+      <line x1="-72" y1="680" x2="792" y2="680"/>
+      <line x1="-522" y1="720" x2="792" y2="720"/>
+    </g>
+
+    <g class="loop">
+      <path d="M 0,-40 A 36,36 0 0,1 72,-40"/>
+      <path d="M 144,-40 A 36,36 0 0,1 216,-40"/>
+      <path d="M 288,-40 A 36,36 0 0,1 360,-40"/>
+      <path d="M 432,-40 A 36,36 0 0,1 504,-40"/>
+      <path d="M 576,-40 A 36,36 0 0,1 648,-40"/>
+    </g>
+
+    <g class="loop">
+      <path d="M 72,760 A 36,36 0 0,0 144,760"/>
+      <path d="M 216,760 A 36,36 0 0,0 288,760"/>
+      <path d="M 360,760 A 36,36 0 0,0 432,760"/>
+      <path d="M 504,760 A 36,36 0 0,0 576,760"/>
+      <path d="M 648,760 A 36,36 0 0,0 720,760"/>
+    </g>
+
+    <g class="loop">
+      <path d="M -72,0 A 20,20 0 0,0 -72,40"/>
+      <path d="M -72,80 A 20,20 0 0,0 -72,120"/>
+      <path d="M -72,160 A 20,20 0 0,0 -72,200"/>
+      <path d="M -72,240 A 20,20 0 0,0 -72,280"/>
+      <path d="M -72,320 A 20,20 0 0,0 -72,360"/>
+      <path d="M -72,400 A 20,20 0 0,0 -72,440"/>
+      <path d="M -72,480 A 20,20 0 0,0 -72,520"/>
+      <path d="M -72,560 A 20,20 0 0,0 -72,600"/>
+      <path d="M -72,640 A 20,20 0 0,0 -72,680"/>
+    </g>
+
+    <line class="grid" x1="-522" y1="720" x2="0" y2="1242"/>
+
+    <g class="loop">
+      <circle cx="-435" cy="694.544" r="25.456"/>
+      <circle cx="-348" cy="694.544" r="25.456"/>
+      <circle cx="-261" cy="694.544" r="25.456"/>
+      <circle cx="25.456" cy="981"  r="25.456"/>
+      <circle cx="25.456" cy="1068"  r="25.456"/>
+      <circle cx="25.456" cy="1155"  r="25.456"/>
+    </g>
+
+    <g font-family="'Noto Sans Devanagari', 'Mangal', 'Sanskrit Text', serif" text-anchor="middle" fill="#222" font-size="21">
+      <text x="-266" y="700" transform="rotate(45 -266 700)">सन्</text>
+      <text x="-353" y="700" transform="rotate(45 -353 700)">य</text>
+      <text x="-440" y="700" transform="rotate(45 -440 700)">अय</text>
+      <text x="20.456" y="986" transform="rotate(45 20.456 986)">इयन्</text>
+      <text x="20.456" y="1073" transform="rotate(45 20.456 1073)">काम्य</text>
+      <text x="20.456" y="1160" transform="rotate(45 20.456 1160)">आय</text>
+    </g>
+
+    <g font-family="'Noto Sans Devanagari', 'Mangal', 'Sanskrit Text', serif" text-anchor="middle" fill="#222" font-size="21">
+      <text x="-527" y="761" transform="rotate(45 -527 761)">अ</text>
+      <text x="-365" y="923" transform="rotate(45 -365 923)">यन्</text>
+      <text x="-311" y="977" transform="rotate(45 -311 977)">नु</text>
+      <text x="-257" y="1031" transform="rotate(45 -257 1031)">अ</text>
+      <text x="-203" y="1085" transform="rotate(45 -203 1085)">न</text>
+      <text x="-149" y="1139" transform="rotate(45 -149 1139)">उ</text>
+      <text x="-95" y="1193" transform="rotate(45 -95 1193)">ना</text>
+      <text x="-41" y="1247" transform="rotate(45 -41 1247)">अय</text>
+      <text x="-65.2" y="785.2" font-size="27" transform="rotate(45 -65.2 785.2)">तिङ्</text>
+      <text x="-130.5" y="850.5" font-size="27" transform="rotate(45 -130.5 850.5)">१६</text>
+      <text x="-195.7" y="915.7" font-size="27" transform="rotate(45 -195.7 915.7)">प्रत्यय</text>
+      <text x="-557.4" y="791.4" transform="rotate(45 -557.4 791.4)">भ्वादि</text>
+      <text x="-503.4" y="845.4" transform="rotate(45 -503.4 845.4)">अदादि</text>
+      <text x="-449.4" y="899.4" transform="rotate(45 -449.4 899.4)">जुहोत्यादि</text>
+      <text x="-395.4" y="953.4" transform="rotate(45 -395.4 953.4)">दिवादि</text>
+      <text x="-341.4" y="1007.4" transform="rotate(45 -341.4 1007.4)">स्वादि</text>
+      <text x="-287.4" y="1061.4" transform="rotate(45 -287.4 1061.4)">तुदादि</text>
+      <text x="-233.4" y="1115.4" transform="rotate(45 -233.4 1115.4)">रुधादि</text>
+      <text x="-179.4" y="1169.4" transform="rotate(45 -179.4 1169.4)">तनादि</text>
+      <text x="-125.4" y="1223.4" transform="rotate(45 -125.4 1223.4)">क्र्यादि</text>
+      <text x="-71.4" y="1277.4" transform="rotate(45 -71.4 1277.4)">चुरादि</text>
+    </g>
+
+    <g class="loop">
+      <circle cx="-522" cy="756" r="25.456"/>
+      <circle cx="-468" cy="810" r="25.456"/>
+      <circle cx="-414" cy="864" r="25.456"/>
+      <circle cx="-360" cy="918" r="25.456"/>
+      <circle cx="-306" cy="972" r="25.456"/>
+      <circle cx="-252" cy="1026" r="25.456"/>
+      <circle cx="-198" cy="1080" r="25.456"/>
+      <circle cx="-144" cy="1134" r="25.456"/>
+      <circle cx="-90" cy="1188" r="25.456"/>
+      <circle cx="-36" cy="1242" r="25.456"/>
+    </g>
+
+    <line class="grid" x1="720" y1="-252" x2="762" y2="-210"/>
+    <line class="grid" x1="930" y1="-42"  x2="972" y2="0"/>
+
+    <g class="loop">
+      <path d="M 792,40 A 20,20 0 0,1 792,80"/>
+      <path d="M 792,120 A 20,20 0 0,1 792,160"/>
+      <path d="M 792,200 A 20,20 0 0,1 792,240"/>
+      <path d="M 792,280 A 20,20 0 0,1 792,320"/>
+      <path d="M 792,360 A 20,20 0 0,1 792,400"/>
+      <path d="M 792,440 A 20,20 0 0,1 792,480"/>
+      <path d="M 792,520 A 20,20 0 0,1 792,560"/>
+      <path d="M 792,600 A 20,20 0 0,1 792,640"/>
+      <path d="M 792,680 A 20,20 0 0,1 792,720"/>
+    </g>
+
+    <g font-family="'Noto Sans Devanagari', 'Mangal', 'Sanskrit Text', serif" text-anchor="middle" fill="#222" font-size="27">
+      <text x="36" y="-10">व</text>
+      <text x="108" y="-10">स</text>
+      <text x="180" y="-10">वि</text>
+      <text x="252" y="-10">ह्य</text>
+      <text x="324" y="-10">अ</text>
+      <text x="396" y="-10">प</text>
+      <text x="468" y="-10">स्व</text>
+      <text x="540" y="-10">आ</text>
+      <text x="612" y="-10">भ</text>
+      <text x="684" y="-10">क्रि</text>
+    </g>
+
+    <g font-family="'Noto Sans Devanagari', 'Mangal', 'Sanskrit Text', serif" text-anchor="end" fill="#222" font-size="27">
+      <text x="-120" y="20">परस्मैपद<tspan dx="30">प्र</tspan></text>
+      <text x="-120" y="140">म</text>
+      <text x="-120" y="260">उ</text>
+      <text x="-120" y="380">आत्मनेपद<tspan dx="30">प्र</tspan></text>
+      <text x="-120" y="500">म</text>
+      <text x="-120" y="620">उ</text>
+    </g>
+
+    <g font-family="'Noto Sans Devanagari', 'Mangal', 'Sanskrit Text', serif" text-anchor="middle" fill="#222" font-size="21">
+      <text x="-32" y="25">१</text>
+      <text x="-32" y="65">२</text>
+      <text x="-32" y="105">३</text>
+      <text x="-32" y="145">१</text>
+      <text x="-32" y="185">२</text>
+      <text x="-32" y="225">३</text>
+      <text x="-32" y="265">१</text>
+      <text x="-32" y="305">२</text>
+      <text x="-32" y="345">३</text>
+      <text x="-32" y="385">१</text>
+      <text x="-32" y="425">२</text>
+      <text x="-32" y="465">३</text>
+      <text x="-32" y="505">१</text>
+      <text x="-32" y="545">२</text>
+      <text x="-32" y="585">३</text>
+      <text x="-32" y="625">१</text>
+      <text x="-32" y="665">२</text>
+      <text x="-32" y="705">३</text>
+    </g>
+
+    <g font-family="'Noto Sans Devanagari', 'Mangal', 'Sanskrit Text', serif" text-anchor="middle" fill="#222" font-size="21">
+      <text x="752" y="25">१०</text>
+      <text x="752" y="65">१०</text>
+      <text x="752" y="105">१०</text>
+      <text x="752" y="145">१०</text>
+      <text x="752" y="185">१०</text>
+      <text x="752" y="225">१०</text>
+      <text x="752" y="265">१०</text>
+      <text x="752" y="305">१०</text>
+      <text x="752" y="345">१०</text>
+      <text x="752" y="385">१०</text>
+      <text x="752" y="425">१०</text>
+      <text x="752" y="465">१०</text>
+      <text x="752" y="505">१०</text>
+      <text x="752" y="545">१०</text>
+      <text x="752" y="585">१०</text>
+      <text x="752" y="625">१०</text>
+      <text x="752" y="665">१०</text>
+      <text x="752" y="705">१०</text>
+    </g>
+
+    <g font-family="'Noto Sans Devanagari', 'Mangal', 'Sanskrit Text', serif" text-anchor="middle" fill="#222" font-size="27">
+      <text x="842" y="105">३०</text>
+      <text x="842" y="225">३०</text>
+      <text x="842" y="345">३०</text>
+      <text x="842" y="465">३०</text>
+      <text x="842" y="585">३०</text>
+      <text x="842" y="705">३०</text>
+    </g>
+
+    <g font-family="'Noto Sans Devanagari', 'Mangal', 'Sanskrit Text', serif" text-anchor="middle" fill="#222" font-size="21">
+      <!-- Col x=36: व = लट् -->
+      <text x="36" y="25">ति</text>
+      <text x="36" y="65">तस्</text>
+      <text x="36" y="105">अन्ति</text>
+      <text x="36" y="145">सि</text>
+      <text x="36" y="185">थस्</text>
+      <text x="36" y="225">थ</text>
+      <text x="36" y="265">मि</text>
+      <text x="36" y="305">वस्</text>
+      <text x="36" y="345">मस्</text>
+      <text x="36" y="385">ते</text>
+      <text x="36" y="425">आते</text>
+      <text x="36" y="465">अन्ते</text>
+      <text x="36" y="505">से</text>
+      <text x="36" y="545">आथे</text>
+      <text x="36" y="585">ध्वे</text>
+      <text x="36" y="625">ए</text>
+      <text x="36" y="665">वहे</text>
+      <text x="36" y="705">महे</text>
+      <!-- Col x=108: स = विधिलिङ् -->
+      <text x="108" y="25">यात्</text>
+      <text x="108" y="65">याताम्</text>
+      <text x="108" y="105">युस्</text>
+      <text x="108" y="145">यास्</text>
+      <text x="108" y="185">यातम्</text>
+      <text x="108" y="225">यात</text>
+      <text x="108" y="265">याम्</text>
+      <text x="108" y="305">याव</text>
+      <text x="108" y="345">याम्</text>
+      <text x="108" y="385">ईत</text>
+      <text x="108" y="425">ईयाताम्</text>
+      <text x="108" y="465">ईरन्</text>
+      <text x="108" y="505">ईथास्</text>
+      <text x="108" y="545">ईयाथाम्</text>
+      <text x="108" y="585">ईध्वम्</text>
+      <text x="108" y="625">ईय</text>
+      <text x="108" y="665">ईवहि</text>
+      <text x="108" y="705">ईमहि</text>
+      <!-- Col x=180: वि = लोट् -->
+      <text x="180" y="25">तु</text>
+      <text x="180" y="65">ताम्</text>
+      <text x="180" y="105">अन्तु</text>
+      <text x="180" y="145">हि</text>
+      <text x="180" y="185">तम्</text>
+      <text x="180" y="225">त</text>
+      <text x="180" y="265">आनि</text>
+      <text x="180" y="305">आव</text>
+      <text x="180" y="345">आम</text>
+      <text x="180" y="385">ताम्</text>
+      <text x="180" y="425">आताम्</text>
+      <text x="180" y="465">अन्ताम्</text>
+      <text x="180" y="505">स्व</text>
+      <text x="180" y="545">आथाम्</text>
+      <text x="180" y="585">ध्वम्</text>
+      <text x="180" y="625">ऐ</text>
+      <text x="180" y="665">आवहै</text>
+      <text x="180" y="705">आमहै</text>
+      <!-- Col x=252: ह्य = लङ् -->
+      <text x="252" y="25">त्</text>
+      <text x="252" y="65">ताम्</text>
+      <text x="252" y="105">अन्</text>
+      <text x="252" y="145">स्</text>
+      <text x="252" y="185">तम्</text>
+      <text x="252" y="225">त</text>
+      <text x="252" y="265">अम्</text>
+      <text x="252" y="305">व</text>
+      <text x="252" y="345">म</text>
+      <text x="252" y="385">त</text>
+      <text x="252" y="425">आताम्</text>
+      <text x="252" y="465">अन्त</text>
+      <text x="252" y="505">थास्</text>
+      <text x="252" y="545">आथाम्</text>
+      <text x="252" y="585">ध्वम्</text>
+      <text x="252" y="625">ई</text>
+      <text x="252" y="665">वहि</text>
+      <text x="252" y="705">महि</text>
+      <!-- Col x=324: अ = लुङ् -->
+      <text x="324" y="25">त्</text>
+      <text x="324" y="65">ताम्</text>
+      <text x="324" y="105">अन्</text>
+      <text x="324" y="145">स्</text>
+      <text x="324" y="185">तम्</text>
+      <text x="324" y="225">त</text>
+      <text x="324" y="265">अम्</text>
+      <text x="324" y="305">व</text>
+      <text x="324" y="345">म</text>
+      <text x="324" y="385">त</text>
+      <text x="324" y="425">आताम्</text>
+      <text x="324" y="465">अन्त</text>
+      <text x="324" y="505">थास्</text>
+      <text x="324" y="545">आथाम्</text>
+      <text x="324" y="585">ध्वम्</text>
+      <text x="324" y="625">ई</text>
+      <text x="324" y="665">वहि</text>
+      <text x="324" y="705">महि</text>
+      <!-- Col x=396: प = लिट् -->
+      <text x="396" y="25">अ</text>
+      <text x="396" y="65">अतुस्</text>
+      <text x="396" y="105">उस्</text>
+      <text x="396" y="145">थल्</text>
+      <text x="396" y="185">अथुस्</text>
+      <text x="396" y="225">अ</text>
+      <text x="396" y="265">अ</text>
+      <text x="396" y="305">व</text>
+      <text x="396" y="345">म</text>
+      <text x="396" y="385">ए</text>
+      <text x="396" y="425">आते</text>
+      <text x="396" y="465">इरे</text>
+      <text x="396" y="505">से</text>
+      <text x="396" y="545">आथे</text>
+      <text x="396" y="585">ध्वे</text>
+      <text x="396" y="625">ए</text>
+      <text x="396" y="665">वहे</text>
+      <text x="396" y="705">महे</text>
+      <!-- Col x=468: स्व = लुट् -->
+      <text x="468" y="25">ता</text>
+      <text x="468" y="65">तारौ</text>
+      <text x="468" y="105">तारस्</text>
+      <text x="468" y="145">तासि</text>
+      <text x="468" y="185">तास्थस्</text>
+      <text x="468" y="225">तास्थ</text>
+      <text x="468" y="265">तास्मि</text>
+      <text x="468" y="305">तास्वस्</text>
+      <text x="468" y="345">तास्मस्</text>
+      <text x="468" y="385">ता</text>
+      <text x="468" y="425">तारौ</text>
+      <text x="468" y="465">तारस्</text>
+      <text x="468" y="505">तासे</text>
+      <text x="468" y="545">तासाथे</text>
+      <text x="468" y="585">ताध्वे</text>
+      <text x="468" y="625">ताहे</text>
+      <text x="468" y="665">तास्वहे</text>
+      <text x="468" y="705">तास्महे</text>
+      <!-- Col x=540: आ = आशीर्लिङ् -->
+      <text x="540" y="25">यात्</text>
+      <text x="540" y="65">यास्ताम्</text>
+      <text x="540" y="105">यासुस्</text>
+      <text x="540" y="145">यास्</text>
+      <text x="540" y="185">यास्तम्</text>
+      <text x="540" y="225">यास्त</text>
+      <text x="540" y="265">यासम्</text>
+      <text x="540" y="305">यास्व</text>
+      <text x="540" y="345">यास्म</text>
+      <text x="540" y="385">सीष्ट</text>
+      <text x="540" y="425">सीयास्ताम्</text>
+      <text x="540" y="465">सीरन्</text>
+      <text x="540" y="505">सीष्ठास्</text>
+      <text x="540" y="545">सीयास्थाम्</text>
+      <text x="540" y="585">सीध्वम्</text>
+      <text x="540" y="625">सीय</text>
+      <text x="540" y="665">सीवहि</text>
+      <text x="540" y="705">सीमहि</text>
+      <!-- Col x=612: भ = लृट् -->
+      <text x="612" y="25">स्यति</text>
+      <text x="612" y="65">स्यतस्</text>
+      <text x="612" y="105">स्यन्ति</text>
+      <text x="612" y="145">स्यसि</text>
+      <text x="612" y="185">स्यथस्</text>
+      <text x="612" y="225">स्यथ</text>
+      <text x="612" y="265">स्यामि</text>
+      <text x="612" y="305">स्यावस्</text>
+      <text x="612" y="345">स्यामस्</text>
+      <text x="612" y="385">स्यते</text>
+      <text x="612" y="425">स्येते</text>
+      <text x="612" y="465">स्यन्ते</text>
+      <text x="612" y="505">स्यसे</text>
+      <text x="612" y="545">स्येथे</text>
+      <text x="612" y="585">स्यध्वे</text>
+      <text x="612" y="625">स्ये</text>
+      <text x="612" y="665">स्यावहे</text>
+      <text x="612" y="705">स्यामहे</text>
+      <!-- Col x=684: क्रि = लृङ् -->
+      <text x="684" y="25">स्यत्</text>
+      <text x="684" y="65">स्यताम्</text>
+      <text x="684" y="105">स्यन्</text>
+      <text x="684" y="145">स्यस्</text>
+      <text x="684" y="185">स्यतम्</text>
+      <text x="684" y="225">स्यत</text>
+      <text x="684" y="265">स्यम्</text>
+      <text x="684" y="305">स्याव</text>
+      <text x="684" y="345">स्याम्</text>
+      <text x="684" y="385">स्यत</text>
+      <text x="684" y="425">स्येताम्</text>
+      <text x="684" y="465">स्यन्त</text>
+      <text x="684" y="505">स्यथास्</text>
+      <text x="684" y="545">स्येथाम्</text>
+      <text x="684" y="585">स्यध्वम्</text>
+      <text x="684" y="625">स्ये</text>
+      <text x="684" y="665">स्यावहि</text>
+      <text x="684" y="705">स्यामहि</text>
+    </g>
+
+    <g font-family="'Noto Sans Devanagari', 'Mangal', 'Sanskrit Text', serif" text-anchor="end" fill="#222" font-size="18">
+      <text x="36" y="-90" transform="rotate(45 36 -90)">वर्तमान = लट्</text>
+      <text x="108" y="-90" transform="rotate(45 108 -90)">सम्भावना = विधिलिङ्</text>
+      <text x="180" y="-90" transform="rotate(45 180 -90)">विधि = लोट्</text>
+      <text x="252" y="-90" transform="rotate(45 252 -90)">ह्यस्तन-अतीत = लङ्</text>
+      <text x="324" y="-90" transform="rotate(45 324 -90)">अतीत-सामान्य = लुङ्</text>
+      <text x="396" y="-90" transform="rotate(45 396 -90)">परोक्ष = लिट्</text>
+      <text x="468" y="-90" transform="rotate(45 468 -90)">श्वस्तन-भविष्यत् = लुट्</text>
+      <text x="540" y="-90" transform="rotate(45 540 -90)">आशीः = आशीर्लिङ्</text>
+      <text x="612" y="-90" transform="rotate(45 612 -90)">भविष्यत् = लृट्</text>
+      <text x="684" y="-90" transform="rotate(45 684 -90)">क्रियातिपत्ति / क्रियातिक्रम = लृङ्</text>
+    </g>
+
+  </g>
+
+  <g class="loop">
+    <!-- Left side: HEAD of the snake. -->
+    <path d="M 241.3 -327.3 A 34.64 34.64 0 0 0 241.3 -387.3 A 25.64 25.64 0 0 1 271.3 -437.3 A 30.78 30.78 0 0 0 215.3 -440.3 A 50.64 50.64 0 0 0 210.3 -422.3 A 73.5 73.5 0 0 0 240.3 -370.3 A 35.40 35.40 0 0 1 241.3 -327"/>
+    <circle cx="243.3" cy="-450" r="2"/>
+    <!-- Right side: TAIL. -->
+    <path d="M 478.7 -327.3 A 34.64 34.64 0 0 1 478.7 -387.3 A 34.64 34.64 0 0 0 478.7 -447.3"/>
+  </g>
+
+  <g class="loop">
+    <line x1="-9" y1="1238" x2="-77.28427" y2="1306.28427"/>
+    <line x1="-9" y1="1238" x2="-105.56854" y2="1238"/>
+    <path d="M -77.28427 1306.28427 A 40 40 0 1 1 -105.56854 1238"/>
+    <line x1="729" y1="1238" x2="797.28427" y2="1306.28427"/>
+    <line x1="729" y1="1238" x2="825.56854" y2="1238"/>
+    <path d="M 797.28427 1306.28427 A 40 40 0 1 0 825.56854 1238"/>
+  </g>
+
+  <g font-family="'Noto Sans Devanagari', 'Mangal', 'Sanskrit Text', serif" text-anchor="middle" fill="#222">
+    <text x="360" y="-628" font-size="30">इयम् उदयादित्य-नरवर्म-महीभुजोः ।</text>
+    <text x="360" y="-596" font-size="30">महेशस्वामिनोर्वर्णस्थित्यै सिद्धासिपुत्रिका ॥</text>
+    <text x="360" y="-548" font-size="30">उदयादित्यदेवस्य वर्णनागकृपाणिका ।</text>
+    <text x="360" y="-516" font-size="30">कवीनां च नृपाणां च वेषो वक्षसि रोपितः ॥</text>
+    <text x="360" y="-367" font-size="30">अथ</text>
+    <text x="360" y="-399" font-size="30">श्रीः</text>
+    <text x="360" y="-431" font-size="30">धातुः</text>
+  </g>
+</svg>
